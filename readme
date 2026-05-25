@@ -1,0 +1,57 @@
+Smart Productivity & Health Monitoring System
+
+An AI-powered real-time productivity and wellness monitoring system built using Python, OpenCV, and MediaPipe. The system tracks posture, eye fatigue, blink rate, productivity, and screen usage through live webcam analysis while generating analytics reports and health insights.
+
+Features
+
+Real-time webcam monitoring
+Posture detection and correction alerts
+Eye fatigue and blink tracking
+Smart break reminders
+Productivity and focus tracking
+Screen-time monitoring
+CSV data logging
+Automated daily analytics reports
+Interactive dashboard and visual graphs
+Productivity vs distraction insights
+Water and stretch reminders
+Tech Stack
+
+Python
+OpenCV
+MediaPipe
+NumPy
+Pandas
+Matplotlib
+Tkinter
+Project Structure SmartHealthMonitor/ │ ├── main.py ├── posture.py ├── fatigue.py ├── productivity.py ├── analytics.py ├── dashboard.py ├── alerts.py ├── utils.py ├── requirements.txt ├── data/ ├── reports/ ├── graphs/ └── README.md
+
+Functionalities
+
+Eye Fatigue Detection
+Blink analysis
+Drowsiness monitoring
+Continuous screen exposure tracking
+Posture Monitoring
+Neck angle estimation
+Slouch detection
+Bad posture alerts
+Productivity Analytics
+Focus time tracking
+Idle/distraction monitoring
+Daily productivity score
+Automated Reporting
+CSV log generation
+Daily usage summaries
+Visual productivity graphs
+Fatigue and posture analytics
+Sample Outputs
+Real-time webcam overlay with analytics
+
+Daily productivity report
+
+Focus and fatigue graphs
+
+Posture tracking insights
+
+Voice assistant integration
