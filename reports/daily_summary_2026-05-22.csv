@@ -1,0 +1,2 @@
+date,avg_productivity,avg_fatigue,avg_posture_score,max_drowsiness,total_blinks,breaks,log_rows,focus_time,entertainment_time,session_time,wellness_score,posture_status
+2026-05-22,73.0,16.7,74.7,44.4,61,0,6,00:00:29,00:00:01,00:01:03,97.8,Bad 

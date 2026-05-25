@@ -1,0 +1,4 @@
+timestamp,blink_count,fatigue_level,posture_status,productivity_score,focus_time_sec,entertainment_time_sec,break_count,active_session_sec,drowsiness_level,posture_score,wellness_score
+2026-05-23 13:07:00,16,0.0,Good,83.8,8,4,0,30,2.2,100.0,90.1
+2026-05-23 13:07:30,26,0.0,Good,61.8,8,19,0,60,4.4,100.0,76.0
+2026-05-23 13:08:00,40,0.0,Good,81.9,18,22,0,90,3.3,100.0,88.9
